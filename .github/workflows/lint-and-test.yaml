@@ -1,0 +1,60 @@
+name: Lint & Test (Ruff + pytest + uv)
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+# ─────────────────────────────── LINT ────────────────────────────────
+  lint:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/ruff-action@v1
+        with:
+          version: "0.12.1"
+          args: "check --output-format github"
+
+      - uses: astral-sh/ruff-action@v1
+        with:
+          version: "0.12.1"
+          args: "format --check"
+
+# ─────────────────────────────── TEST ────────────────────────────────
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    # uncomment if you want tests to wait for lint to pass first
+    # needs: lint
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.7.18"
+          enable-cache: false
+
+      - name: Sync deps
+        run: uv sync --locked
+
+      - name: Runtime data and CLI smoke
+        env:
+          NLTK_DATA: ${{ runner.temp }}/nltk_data
+        run: |
+          uv run python -m nltk.downloader -d "$NLTK_DATA" wordnet wordnet2022
+          uv run python -c 'from nltk.corpus import wordnet2022 as wn; wn.synset("physical_entity.n.01")'
+          uv run sims-v --help >/dev/null
+          uv run sims-v generate --help >/dev/null
+          uv run sims-v qa --help >/dev/null
+
+      - name: Run pytest
+        env:
+          NLTK_DATA: ${{ runner.temp }}/nltk_data
+        run: uv run pytest -q

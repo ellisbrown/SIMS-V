@@ -1,0 +1,53 @@
+table
+sofa
+bed
+chair
+tv
+whiteboard
+computer tower
+keyboard
+telephone
+monitor
+bookshelf
+ceiling light
+door
+heater
+trash can
+pillow
+crate
+pan
+basket
+printer
+plant
+window
+trash bin
+backpack
+towel
+refrigerator
+mirror
+stool
+washer
+computer mouse
+power strip
+coat rack
+cup
+shoes
+exhaust fan
+suitcase
+lamp
+nightstand
+counter
+toilet
+bowl
+bucket
+laptop
+blanket
+cushion
+
+fridge
+television
+dining table
+sofa
+house plant
+trash can
+garbage can

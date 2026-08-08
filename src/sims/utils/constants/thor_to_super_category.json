@@ -1,0 +1,3139 @@
+{
+    "AlarmClock": [
+        "electronic device"
+    ],
+    "AluminumFoil": [
+        "food item",
+        "storage container"
+    ],
+    "Apple": [
+        "food item"
+    ],
+    "ArmChair": [
+        "piece of furniture"
+    ],
+    "BaseballBat": [
+        "piece of sports or exercise equipment"
+    ],
+    "BasketBall": [
+        "toy",
+        "piece of sports or exercise equipment",
+        "entertainment item"
+    ],
+    "Bed": [
+        "piece of furniture"
+    ],
+    "Blinds": [
+        "decorative item"
+    ],
+    "Book": [
+        "entertainment item"
+    ],
+    "Boots": [
+        "piece of clothes",
+        "footwear item"
+    ],
+    "Bottle": [
+        "glassware item",
+        "storage container",
+        "beverage"
+    ],
+    "Bowl": [
+        "cookware item",
+        "storage container",
+        "dinnerware item"
+    ],
+    "Box": [
+        "storage container"
+    ],
+    "Bread": [
+        "food item"
+    ],
+    "ButterKnife": [
+        "dinnerware item"
+    ],
+    "CD": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "Candle": [
+        "decorative item",
+        "lighting fixture"
+    ],
+    "Cart": [
+        "storage container"
+    ],
+    "CellPhone": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "Chair": [
+        "piece of furniture"
+    ],
+    "Cloth": [
+        "piece of clothes",
+        "piece of linens"
+    ],
+    "ClothesDryer": [
+        "appliance"
+    ],
+    "CoffeeMachine": [
+        "appliance",
+        "beverage",
+        "electronic device"
+    ],
+    "CoffeeTable": [
+        "piece of furniture"
+    ],
+    "CounterTop": [
+        "piece of furniture"
+    ],
+    "CreditCard": [
+        "financial item"
+    ],
+    "Cup": [
+        "dinnerware item",
+        "glassware item",
+        "beverage"
+    ],
+    "Desk": [
+        "office or craft supply",
+        "piece of furniture"
+    ],
+    "DeskLamp": [
+        "decorative item",
+        "piece of furniture",
+        "lighting fixture"
+    ],
+    "Desktop": [
+        "office or craft supply",
+        "piece of furniture",
+        "electronic device"
+    ],
+    "DiningTable": [
+        "piece of furniture"
+    ],
+    "DishSponge": [
+        "cleaning item"
+    ],
+    "DogBed": [
+        "piece of furniture"
+    ],
+    "Doorframe": [
+        "tool",
+        "piece of furniture",
+        "piece of garden equipment"
+    ],
+    "Dresser": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "Dumbbell": [
+        "piece of sports or exercise equipment"
+    ],
+    "Egg": [
+        "food item"
+    ],
+    "Faucet": [
+        "appliance",
+        "tool"
+    ],
+    "FloorLamp": [
+        "decorative item",
+        "piece of furniture",
+        "lighting fixture"
+    ],
+    "Footstool": [
+        "piece of furniture"
+    ],
+    "Fork": [
+        "dinnerware item"
+    ],
+    "Fridge": [
+        "appliance",
+        "storage container"
+    ],
+    "GarbageBag": [
+        "cleaning item"
+    ],
+    "GarbageCan": [
+        "cleaning item"
+    ],
+    "HandTowel": [
+        "cleaning item",
+        "piece of linens"
+    ],
+    "HandTowelHolder": [
+        "piece of linens"
+    ],
+    "HousePlant": [
+        "decorative item"
+    ],
+    "Kettle": [
+        "appliance",
+        "cookware item",
+        "beverage"
+    ],
+    "KeyChain": [
+        "toy",
+        "personal care item"
+    ],
+    "Knife": [
+        "tool",
+        "cookware item"
+    ],
+    "Ladle": [
+        "tool",
+        "cookware item"
+    ],
+    "Laptop": [
+        "office or craft supply",
+        "entertainment item",
+        "electronic device"
+    ],
+    "LaundryHamper": [
+        "storage container"
+    ],
+    "Lettuce": [
+        "food item"
+    ],
+    "LightSwitch": [
+        "lighting fixture",
+        "electronic device"
+    ],
+    "Microwave": [
+        "appliance",
+        "electronic device"
+    ],
+    "Mug": [
+        "dinnerware item",
+        "beverage"
+    ],
+    "Newspaper": [
+        "entertainment item",
+        "office or craft supply"
+    ],
+    "ObjaAerosolCan": [
+        "cleaning item"
+    ],
+    "ObjaAirConditioner": [
+        "appliance",
+        "electronic device"
+    ],
+    "ObjaAlarmClock": [
+        "electronic device"
+    ],
+    "ObjaAlcohol": [
+        "beverage"
+    ],
+    "ObjaAmplifier": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaAntenna": [
+        "electronic device"
+    ],
+    "ObjaApple": [
+        "food item"
+    ],
+    "ObjaAquarium": [
+        "decorative item"
+    ],
+    "ObjaArcadeMachine": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaArmchair": [
+        "piece of furniture"
+    ],
+    "ObjaArrow": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaArrowHead": [
+        "decorative item",
+        "tool"
+    ],
+    "ObjaArrowhead": [
+        "decorative item",
+        "tool"
+    ],
+    "ObjaArtifact": [
+        "decorative item"
+    ],
+    "ObjaArtwork": [
+        "decorative item"
+    ],
+    "ObjaAshtray": [
+        "decorative item",
+        "piece of furniture"
+    ],
+    "ObjaAudioEquipment": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaAutomaticWasher": [
+        "appliance"
+    ],
+    "ObjaAvocado": [
+        "food item"
+    ],
+    "ObjaAward": [
+        "entertainment item",
+        "office or craft supply"
+    ],
+    "ObjaAx": [
+        "tool",
+        "piece of garden equipment"
+    ],
+    "ObjaBabySeat": [
+        "piece of furniture"
+    ],
+    "ObjaBackpack": [
+        "storage container"
+    ],
+    "ObjaBadge": [
+        "office or craft supply"
+    ],
+    "ObjaBag": [
+        "storage container"
+    ],
+    "ObjaBagel": [
+        "food item"
+    ],
+    "ObjaBall": [
+        "toy",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaBanana": [
+        "food item"
+    ],
+    "ObjaBananas": [
+        "food item"
+    ],
+    "ObjaBanjo": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaBarStool": [
+        "piece of furniture"
+    ],
+    "ObjaBarbell": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaBarrel": [
+        "storage container"
+    ],
+    "ObjaBarrels": [
+        "storage container"
+    ],
+    "ObjaBaseball": [
+        "toy",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaBaseballCap": [
+        "piece of clothes"
+    ],
+    "ObjaBaseballCard": [
+        "piece of sports or exercise equipment",
+        "entertainment item"
+    ],
+    "ObjaBaseballGlove": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaBasket": [
+        "storage container"
+    ],
+    "ObjaBasketball": [
+        "toy",
+        "piece of sports or exercise equipment",
+        "entertainment item"
+    ],
+    "ObjaBasketballCard": [
+        "piece of sports or exercise equipment",
+        "entertainment item"
+    ],
+    "ObjaBat": [
+        "entertainment item"
+    ],
+    "ObjaBathtub": [
+        "appliance",
+        "piece of furniture",
+        "personal care item"
+    ],
+    "ObjaBeanbag": [
+        "toy",
+        "piece of furniture"
+    ],
+    "ObjaBeanie": [
+        "piece of clothes"
+    ],
+    "ObjaBeautyProducts": [
+        "personal care item"
+    ],
+    "ObjaBed": [
+        "piece of furniture"
+    ],
+    "ObjaBedFrame": [
+        "piece of furniture"
+    ],
+    "ObjaBeerBottle": [
+        "glassware item",
+        "storage container",
+        "beverage"
+    ],
+    "ObjaBeerCan": [
+        "beverage"
+    ],
+    "ObjaBeerMug": [
+        "glassware item",
+        "beverage"
+    ],
+    "ObjaBellPepper": [
+        "food item"
+    ],
+    "ObjaBelt": [
+        "piece of clothes"
+    ],
+    "ObjaBeltBuckle": [
+        "piece of clothes"
+    ],
+    "ObjaBench": [
+        "piece of furniture"
+    ],
+    "ObjaBeverage": [
+        "beverage"
+    ],
+    "ObjaBicycle": [
+        "piece of sports or exercise equipment",
+        "entertainment item"
+    ],
+    "ObjaBinoculars": [
+        "tool",
+        "entertainment item"
+    ],
+    "ObjaBirdhouse": [
+        "decorative item",
+        "piece of garden equipment"
+    ],
+    "ObjaBirthdayCake": [
+        "food item"
+    ],
+    "ObjaBlade": [
+        "tool",
+        "cookware item"
+    ],
+    "ObjaBlender": [
+        "appliance"
+    ],
+    "ObjaBlock": [
+        "tool"
+    ],
+    "ObjaBlocks": [
+        "tool"
+    ],
+    "ObjaBlouse": [
+        "piece of clothes"
+    ],
+    "ObjaBoiler": [
+        "appliance",
+        "tool"
+    ],
+    "ObjaBone": [
+        "food item"
+    ],
+    "ObjaBook": [
+        "entertainment item"
+    ],
+    "ObjaBookcase": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaBookmark": [
+        "office or craft supply"
+    ],
+    "ObjaBooks": [
+        "entertainment item"
+    ],
+    "ObjaBookshelf": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaBoombox": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaBoomerang": [
+        "toy",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaBoot": [
+        "piece of clothes",
+        "footwear item"
+    ],
+    "ObjaBoots": [
+        "piece of clothes",
+        "footwear item"
+    ],
+    "ObjaBottle": [
+        "glassware item",
+        "storage container",
+        "beverage"
+    ],
+    "ObjaBottleCap": [
+        "beverage"
+    ],
+    "ObjaBottleOpener": [
+        "tool"
+    ],
+    "ObjaBouquet": [
+        "decorative item"
+    ],
+    "ObjaBow": [
+        "entertainment item",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaBowWeapon": [
+        "tool",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaBowl": [
+        "cookware item",
+        "storage container",
+        "dinnerware item"
+    ],
+    "ObjaBowlerHat": [
+        "piece of clothes"
+    ],
+    "ObjaBowlingPin": [
+        "piece of sports or exercise equipment",
+        "entertainment item"
+    ],
+    "ObjaBox": [
+        "storage container"
+    ],
+    "ObjaBracelet": [
+        "decorative item",
+        "personal care item"
+    ],
+    "ObjaBrassPlaque": [
+        "decorative item"
+    ],
+    "ObjaBrassiere": [
+        "piece of clothes",
+        "personal care item"
+    ],
+    "ObjaBread": [
+        "food item"
+    ],
+    "ObjaBriefcase": [
+        "office or craft supply"
+    ],
+    "ObjaBroccoli": [
+        "food item"
+    ],
+    "ObjaBroom": [
+        "cleaning item",
+        "tool"
+    ],
+    "ObjaBucket": [
+        "cleaning item",
+        "tool",
+        "storage container",
+        "piece of garden equipment"
+    ],
+    "ObjaBuffetTable": [
+        "piece of furniture"
+    ],
+    "ObjaBulletinBoard": [
+        "decorative item",
+        "office or craft supply"
+    ],
+    "ObjaBulletproofVest": [
+        "piece of clothes"
+    ],
+    "ObjaBun": [
+        "food item"
+    ],
+    "ObjaBureau": [
+        "piece of furniture"
+    ],
+    "ObjaBusinessCard": [
+        "financial item",
+        "office or craft supply"
+    ],
+    "ObjaBust": [
+        "decorative item"
+    ],
+    "ObjaButterfly": [
+        "decorative item"
+    ],
+    "ObjaCabinet": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaCabinets": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaCactus": [
+        "decorative item"
+    ],
+    "ObjaCake": [
+        "food item"
+    ],
+    "ObjaCalculator": [
+        "financial item",
+        "office or craft supply",
+        "electronic device"
+    ],
+    "ObjaCalendar": [
+        "entertainment item",
+        "office or craft supply"
+    ],
+    "ObjaCamcorder": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaCamera": [
+        "tool",
+        "electronic device"
+    ],
+    "ObjaCameraLens": [
+        "tool"
+    ],
+    "ObjaCan": [
+        "storage container"
+    ],
+    "ObjaCandelabra": [
+        "decorative item",
+        "lighting fixture"
+    ],
+    "ObjaCandle": [
+        "decorative item",
+        "lighting fixture"
+    ],
+    "ObjaCandleHolder": [
+        "decorative item",
+        "lighting fixture"
+    ],
+    "ObjaCandy": [
+        "food item"
+    ],
+    "ObjaCandyBar": [
+        "food item"
+    ],
+    "ObjaCandyCane": [
+        "decorative item",
+        "food item"
+    ],
+    "ObjaCane": [
+        "medical item"
+    ],
+    "ObjaCanister": [
+        "storage container"
+    ],
+    "ObjaCannister": [
+        "storage container"
+    ],
+    "ObjaCantaloup": [
+        "food item"
+    ],
+    "ObjaCanteen": [
+        "dinnerware item",
+        "storage container"
+    ],
+    "ObjaCanvas": [
+        "office or craft supply",
+        "piece of clothes",
+        "piece of furniture",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaCap": [
+        "piece of clothes"
+    ],
+    "ObjaCapHeadwear": [
+        "piece of clothes"
+    ],
+    "ObjaCape": [
+        "piece of clothes"
+    ],
+    "ObjaCard": [
+        "financial item",
+        "entertainment item"
+    ],
+    "ObjaCardboardBox": [
+        "storage container"
+    ],
+    "ObjaCart": [
+        "storage container"
+    ],
+    "ObjaCarton": [
+        "storage container"
+    ],
+    "ObjaCase": [
+        "storage container"
+    ],
+    "ObjaCashRegister": [
+        "tool",
+        "financial item",
+        "electronic device"
+    ],
+    "ObjaCassette": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaCassettePlayer": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaCauldron": [
+        "cookware item"
+    ],
+    "ObjaCauliflower": [
+        "food item"
+    ],
+    "ObjaCdPlayer": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaCellphone": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaCellularTelephone": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaCerealBox": [
+        "food item",
+        "storage container"
+    ],
+    "ObjaChain": [
+        "tool"
+    ],
+    "ObjaChair": [
+        "piece of furniture"
+    ],
+    "ObjaChairs": [
+        "piece of furniture"
+    ],
+    "ObjaChaiseLongue": [
+        "piece of furniture"
+    ],
+    "ObjaChalice": [
+        "decorative item",
+        "glassware item"
+    ],
+    "ObjaChalkboard": [
+        "office or craft supply"
+    ],
+    "ObjaCharger": [
+        "electronic device"
+    ],
+    "ObjaCheckerboard": [
+        "entertainment item"
+    ],
+    "ObjaChessPiece": [
+        "toy",
+        "entertainment item"
+    ],
+    "ObjaChessSet": [
+        "toy",
+        "entertainment item"
+    ],
+    "ObjaChessboard": [
+        "entertainment item"
+    ],
+    "ObjaChest": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaChiliVegetable": [
+        "food item"
+    ],
+    "ObjaChisel": [
+        "tool"
+    ],
+    "ObjaChocolateBar": [
+        "food item"
+    ],
+    "ObjaChocolateMilk": [
+        "food item",
+        "beverage"
+    ],
+    "ObjaChopstick": [
+        "tool",
+        "dinnerware item"
+    ],
+    "ObjaChristmasTreeOrnament": [
+        "toy",
+        "decorative item"
+    ],
+    "ObjaCigar": [
+        "entertainment item",
+        "personal care item"
+    ],
+    "ObjaCigarBox": [
+        "storage container"
+    ],
+    "ObjaCigarette": [
+        "entertainment item"
+    ],
+    "ObjaCigaretteCase": [
+        "storage container"
+    ],
+    "ObjaCigarettes": [
+        "entertainment item"
+    ],
+    "ObjaCircuitBoard": [
+        "electronic device"
+    ],
+    "ObjaClamp": [
+        "tool"
+    ],
+    "ObjaClay": [
+        "decorative item",
+        "office or craft supply",
+        "tool",
+        "piece of garden equipment"
+    ],
+    "ObjaClock": [
+        "electronic device"
+    ],
+    "ObjaClockRadio": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaCloset": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaClothesHamper": [
+        "storage container"
+    ],
+    "ObjaClothing": [
+        "piece of clothes"
+    ],
+    "ObjaClub": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaClutchBag": [
+        "piece of clothes",
+        "storage container",
+        "personal care item"
+    ],
+    "ObjaCoaster": [
+        "dinnerware item"
+    ],
+    "ObjaCoat": [
+        "piece of clothes"
+    ],
+    "ObjaCoatHanger": [
+        "piece of clothes",
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaCoatrack": [
+        "piece of furniture"
+    ],
+    "ObjaCoconut": [
+        "food item"
+    ],
+    "ObjaCoffeeCup": [
+        "beverage"
+    ],
+    "ObjaCoffeeGrinder": [
+        "appliance"
+    ],
+    "ObjaCoffeeMaker": [
+        "appliance",
+        "beverage",
+        "electronic device"
+    ],
+    "ObjaCoffeeTable": [
+        "piece of furniture"
+    ],
+    "ObjaCoffeepot": [
+        "appliance",
+        "cookware item",
+        "beverage"
+    ],
+    "ObjaCollectible": [
+        "decorative item",
+        "entertainment item"
+    ],
+    "ObjaColoringMaterial": [
+        "toy",
+        "office or craft supply"
+    ],
+    "ObjaCommode": [
+        "piece of furniture"
+    ],
+    "ObjaCompass": [
+        "tool"
+    ],
+    "ObjaComputer": [
+        "office or craft supply",
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaComputerChair": [
+        "office or craft supply",
+        "piece of furniture"
+    ],
+    "ObjaComputerKeyboard": [
+        "office or craft supply",
+        "electronic device"
+    ],
+    "ObjaConsole": [
+        "entertainment item",
+        "piece of furniture",
+        "electronic device"
+    ],
+    "ObjaConsoleTable": [
+        "decorative item",
+        "piece of furniture"
+    ],
+    "ObjaContainer": [
+        "storage container"
+    ],
+    "ObjaContainers": [
+        "storage container"
+    ],
+    "ObjaControl": [
+        "electronic device"
+    ],
+    "ObjaController": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaCooker": [
+        "appliance",
+        "cookware item"
+    ],
+    "ObjaCookie": [
+        "food item"
+    ],
+    "ObjaCookies": [
+        "food item"
+    ],
+    "ObjaCookingUtensil": [
+        "tool",
+        "cookware item"
+    ],
+    "ObjaCooler": [
+        "storage container"
+    ],
+    "ObjaCoolerForFood": [
+        "appliance",
+        "storage container"
+    ],
+    "ObjaCoral": [
+        "decorative item"
+    ],
+    "ObjaCorkBottlePlug": [
+        "dinnerware item",
+        "storage container"
+    ],
+    "ObjaCorkboard": [
+        "decorative item",
+        "office or craft supply"
+    ],
+    "ObjaCorkscrew": [
+        "tool"
+    ],
+    "ObjaCostume": [
+        "piece of clothes",
+        "entertainment item"
+    ],
+    "ObjaCouch": [
+        "piece of furniture"
+    ],
+    "ObjaCounter": [
+        "piece of furniture"
+    ],
+    "ObjaCountertop": [
+        "piece of furniture"
+    ],
+    "ObjaCrate": [
+        "storage container"
+    ],
+    "ObjaCrib": [
+        "piece of furniture"
+    ],
+    "ObjaCrispPotatoChip": [
+        "food item"
+    ],
+    "ObjaCross": [
+        "entertainment item",
+        "piece of clothes"
+    ],
+    "ObjaCrowbar": [
+        "tool"
+    ],
+    "ObjaCrown": [
+        "decorative item"
+    ],
+    "ObjaCrystal": [
+        "decorative item",
+        "glassware item"
+    ],
+    "ObjaCrystalBall": [
+        "decorative item",
+        "entertainment item"
+    ],
+    "ObjaCrystals": [
+        "decorative item",
+        "glassware item"
+    ],
+    "ObjaCube": [
+        "toy"
+    ],
+    "ObjaCucumber": [
+        "food item"
+    ],
+    "ObjaCup": [
+        "dinnerware item",
+        "glassware item",
+        "beverage"
+    ],
+    "ObjaCupboard": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaCurtain": [
+        "decorative item",
+        "piece of linens"
+    ],
+    "ObjaCushion": [
+        "decorative item",
+        "piece of furniture"
+    ],
+    "ObjaCuttingBoard": [
+        "tool",
+        "cookware item"
+    ],
+    "ObjaCylinder": [
+        "storage container"
+    ],
+    "ObjaDagger": [
+        "tool"
+    ],
+    "ObjaDart": [
+        "toy",
+        "piece of sports or exercise equipment",
+        "entertainment item"
+    ],
+    "ObjaDartboard": [
+        "toy",
+        "piece of sports or exercise equipment",
+        "entertainment item"
+    ],
+    "ObjaDeckChair": [
+        "piece of furniture",
+        "piece of garden equipment"
+    ],
+    "ObjaDentures": [
+        "medical item"
+    ],
+    "ObjaDesk": [
+        "office or craft supply",
+        "piece of furniture"
+    ],
+    "ObjaDiaper": [
+        "piece of clothes",
+        "personal care item"
+    ],
+    "ObjaDiningTable": [
+        "piece of furniture"
+    ],
+    "ObjaDisc": [
+        "entertainment item",
+        "storage container",
+        "electronic device"
+    ],
+    "ObjaDish": [
+        "cookware item",
+        "dinnerware item"
+    ],
+    "ObjaDishtowel": [
+        "cleaning item",
+        "piece of linens"
+    ],
+    "ObjaDisk": [
+        "entertainment item",
+        "storage container",
+        "electronic device"
+    ],
+    "ObjaDispenser": [
+        "appliance"
+    ],
+    "ObjaDisplay": [
+        "decorative item",
+        "piece of furniture"
+    ],
+    "ObjaDisplayCase": [
+        "decorative item",
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaDogCollar": [
+        "piece of clothes"
+    ],
+    "ObjaDoll": [
+        "toy"
+    ],
+    "ObjaDollar": [
+        "financial item"
+    ],
+    "ObjaDonut": [
+        "food item"
+    ],
+    "ObjaDonuts": [
+        "food item"
+    ],
+    "ObjaDoor": [
+        "tool",
+        "piece of furniture",
+        "piece of garden equipment"
+    ],
+    "ObjaDoormat": [
+        "decorative item",
+        "piece of garden equipment"
+    ],
+    "ObjaDoors": [
+        "tool",
+        "piece of furniture",
+        "piece of garden equipment"
+    ],
+    "ObjaDough": [
+        "food item"
+    ],
+    "ObjaDoughnut": [
+        "food item"
+    ],
+    "ObjaDrawer": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaDrawers": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaDress": [
+        "piece of clothes"
+    ],
+    "ObjaDressSuit": [
+        "piece of clothes"
+    ],
+    "ObjaDresser": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaDrill": [
+        "tool"
+    ],
+    "ObjaDrink": [
+        "beverage"
+    ],
+    "ObjaDrum": [
+        "entertainment item"
+    ],
+    "ObjaDrumMusicalInstrument": [
+        "entertainment item"
+    ],
+    "ObjaDuck": [
+        "decorative item"
+    ],
+    "ObjaDuffelBag": [
+        "storage container"
+    ],
+    "ObjaDumbbell": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaEarphone": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaEclair": [
+        "food item"
+    ],
+    "ObjaEgg": [
+        "food item"
+    ],
+    "ObjaEggbeater": [
+        "tool",
+        "cookware item"
+    ],
+    "ObjaEndTable": [
+        "decorative item",
+        "piece of furniture"
+    ],
+    "ObjaEnvelope": [
+        "financial item",
+        "office or craft supply"
+    ],
+    "ObjaEyeglass": [
+        "glassware item"
+    ],
+    "ObjaEyeglasses": [
+        "glassware item"
+    ],
+    "ObjaFan": [
+        "appliance",
+        "electronic device"
+    ],
+    "ObjaFaucet": [
+        "appliance",
+        "tool"
+    ],
+    "ObjaFigure": [
+        "toy",
+        "decorative item",
+        "entertainment item"
+    ],
+    "ObjaFigurine": [
+        "decorative item",
+        "entertainment item"
+    ],
+    "ObjaFileCabinet": [
+        "office or craft supply",
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaFilingCabinet": [
+        "office or craft supply",
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaFireExtinguisher": [
+        "tool"
+    ],
+    "ObjaFirstAidKit": [
+        "medical item"
+    ],
+    "ObjaFish": [
+        "food item"
+    ],
+    "ObjaFishbowl": [
+        "decorative item",
+        "glassware item"
+    ],
+    "ObjaFishingRod": [
+        "tool",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaFlag": [
+        "decorative item"
+    ],
+    "ObjaFlashlight": [
+        "tool",
+        "electronic device"
+    ],
+    "ObjaFlask": [
+        "beverage"
+    ],
+    "ObjaFlipFlopSandal": [
+        "footwear item"
+    ],
+    "ObjaFloodlight": [
+        "tool",
+        "lighting fixture"
+    ],
+    "ObjaFloppyDisk": [
+        "electronic device"
+    ],
+    "ObjaFlower": [
+        "decorative item"
+    ],
+    "ObjaFlowerArrangement": [
+        "decorative item"
+    ],
+    "ObjaFlowerpot": [
+        "decorative item",
+        "piece of garden equipment"
+    ],
+    "ObjaFlowers": [
+        "decorative item"
+    ],
+    "ObjaFoldingChair": [
+        "piece of furniture"
+    ],
+    "ObjaFood": [
+        "food item"
+    ],
+    "ObjaFoosballTable": [
+        "piece of sports or exercise equipment",
+        "entertainment item"
+    ],
+    "ObjaFootball": [
+        "toy",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaFootballAmerican": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaFootballCard": [
+        "toy",
+        "entertainment item"
+    ],
+    "ObjaFootballHelmet": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaFootstool": [
+        "piece of furniture"
+    ],
+    "ObjaFork": [
+        "dinnerware item"
+    ],
+    "ObjaFossil": [
+        "decorative item",
+        "piece of garden equipment"
+    ],
+    "ObjaFossils": [
+        "decorative item",
+        "piece of garden equipment"
+    ],
+    "ObjaFrame": [
+        "decorative item"
+    ],
+    "ObjaFrenchFries": [
+        "food item"
+    ],
+    "ObjaFries": [
+        "food item"
+    ],
+    "ObjaFrisbee": [
+        "toy",
+        "piece of sports or exercise equipment",
+        "entertainment item"
+    ],
+    "ObjaFruit": [
+        "food item"
+    ],
+    "ObjaFruitJuice": [
+        "beverage"
+    ],
+    "ObjaFryingPan": [
+        "cookware item"
+    ],
+    "ObjaFurniture": [
+        "piece of furniture"
+    ],
+    "ObjaFuton": [
+        "piece of furniture"
+    ],
+    "ObjaGame": [
+        "toy",
+        "entertainment item"
+    ],
+    "ObjaGameCard": [
+        "toy",
+        "entertainment item"
+    ],
+    "ObjaGameCartridge": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaGameConsole": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaGameController": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaGameTable": [
+        "entertainment item",
+        "piece of furniture"
+    ],
+    "ObjaGamingChair": [
+        "entertainment item",
+        "piece of furniture"
+    ],
+    "ObjaGarbageCan": [
+        "cleaning item"
+    ],
+    "ObjaGiftWrap": [
+        "decorative item"
+    ],
+    "ObjaGinger": [
+        "food item"
+    ],
+    "ObjaGingerbreadHouse": [
+        "toy",
+        "decorative item"
+    ],
+    "ObjaGlass": [
+        "glassware item"
+    ],
+    "ObjaGlassDrinkContainer": [
+        "dinnerware item",
+        "glassware item",
+        "beverage"
+    ],
+    "ObjaGlasses": [
+        "glassware item"
+    ],
+    "ObjaGlobe": [
+        "decorative item"
+    ],
+    "ObjaGlove": [
+        "piece of clothes"
+    ],
+    "ObjaGloves": [
+        "piece of clothes"
+    ],
+    "ObjaGoblet": [
+        "decorative item",
+        "dinnerware item",
+        "glassware item"
+    ],
+    "ObjaGoggles": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaGolfBall": [
+        "toy",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaGolfClub": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaGourd": [
+        "decorative item",
+        "food item"
+    ],
+    "ObjaGps": [
+        "tool",
+        "electronic device"
+    ],
+    "ObjaGrape": [
+        "food item"
+    ],
+    "ObjaGravyBoat": [
+        "dinnerware item"
+    ],
+    "ObjaGrenade": [
+        "tool",
+        "entertainment item"
+    ],
+    "ObjaGrill": [
+        "cookware item",
+        "piece of garden equipment"
+    ],
+    "ObjaGrinder": [
+        "appliance",
+        "tool"
+    ],
+    "ObjaGuitar": [
+        "entertainment item"
+    ],
+    "ObjaHairDryer": [
+        "appliance",
+        "personal care item",
+        "electronic device"
+    ],
+    "ObjaHairbrush": [
+        "personal care item"
+    ],
+    "ObjaHairpin": [
+        "personal care item"
+    ],
+    "ObjaHam": [
+        "food item"
+    ],
+    "ObjaHamburger": [
+        "food item"
+    ],
+    "ObjaHammer": [
+        "tool"
+    ],
+    "ObjaHamper": [
+        "storage container"
+    ],
+    "ObjaHandAxe": [
+        "tool"
+    ],
+    "ObjaHandbag": [
+        "piece of clothes",
+        "personal care item"
+    ],
+    "ObjaHandcart": [
+        "tool"
+    ],
+    "ObjaHandheldGameConsole": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaHandheldGamingConsole": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaHandkerchief": [
+        "piece of clothes",
+        "piece of linens",
+        "personal care item"
+    ],
+    "ObjaHandsaw": [
+        "tool"
+    ],
+    "ObjaHardDrive": [
+        "tool",
+        "storage container",
+        "electronic device"
+    ],
+    "ObjaHardbackBook": [
+        "entertainment item"
+    ],
+    "ObjaHat": [
+        "piece of clothes"
+    ],
+    "ObjaHatbox": [
+        "piece of clothes"
+    ],
+    "ObjaHeadboard": [
+        "piece of furniture"
+    ],
+    "ObjaHeadphones": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaHeadscarf": [
+        "piece of clothes",
+        "personal care item"
+    ],
+    "ObjaHeadset": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaHeater": [
+        "appliance"
+    ],
+    "ObjaHelmet": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaHighchair": [
+        "piece of furniture"
+    ],
+    "ObjaHockeyStick": [
+        "piece of sports or exercise equipment",
+        "entertainment item"
+    ],
+    "ObjaHorn": [
+        "entertainment item",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaHorseshoe": [
+        "piece of sports or exercise equipment",
+        "piece of garden equipment"
+    ],
+    "ObjaHotdog": [
+        "food item"
+    ],
+    "ObjaHourglass": [
+        "decorative item"
+    ],
+    "ObjaHouseModel": [
+        "decorative item"
+    ],
+    "ObjaIceCream": [
+        "food item"
+    ],
+    "ObjaIceSkate": [
+        "piece of sports or exercise equipment",
+        "entertainment item",
+        "footwear item"
+    ],
+    "ObjaIcecream": [
+        "food item"
+    ],
+    "ObjaIdentityCard": [
+        "financial item"
+    ],
+    "ObjaInstrument": [
+        "tool"
+    ],
+    "ObjaIpod": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaIron": [
+        "appliance",
+        "tool"
+    ],
+    "ObjaIronForClothing": [
+        "appliance",
+        "tool"
+    ],
+    "ObjaJacket": [
+        "piece of clothes"
+    ],
+    "ObjaJam": [
+        "food item"
+    ],
+    "ObjaJar": [
+        "food item",
+        "glassware item",
+        "storage container"
+    ],
+    "ObjaJersey": [
+        "piece of clothes",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaJewelry": [
+        "decorative item",
+        "personal care item"
+    ],
+    "ObjaJoystick": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaJug": [
+        "beverage"
+    ],
+    "ObjaJukebox": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaJumpsuit": [
+        "piece of clothes"
+    ],
+    "ObjaKeg": [
+        "storage container",
+        "beverage"
+    ],
+    "ObjaKetchup": [
+        "food item"
+    ],
+    "ObjaKettle": [
+        "appliance",
+        "cookware item",
+        "beverage"
+    ],
+    "ObjaKey": [
+        "tool",
+        "financial item"
+    ],
+    "ObjaKeyboard": [
+        "office or craft supply",
+        "electronic device"
+    ],
+    "ObjaKeycard": [
+        "financial item",
+        "electronic device"
+    ],
+    "ObjaKeychain": [
+        "toy",
+        "personal care item"
+    ],
+    "ObjaKeypad": [
+        "tool",
+        "electronic device"
+    ],
+    "ObjaKeyring": [
+        "toy",
+        "personal care item"
+    ],
+    "ObjaKitchenSink": [
+        "appliance"
+    ],
+    "ObjaKitchenTable": [
+        "piece of furniture"
+    ],
+    "ObjaKiwiFruit": [
+        "food item"
+    ],
+    "ObjaKnife": [
+        "tool",
+        "cookware item"
+    ],
+    "ObjaLabel": [
+        "office or craft supply"
+    ],
+    "ObjaLadle": [
+        "tool",
+        "cookware item"
+    ],
+    "ObjaLamp": [
+        "decorative item",
+        "lighting fixture"
+    ],
+    "ObjaLantern": [
+        "lighting fixture"
+    ],
+    "ObjaLaptop": [
+        "office or craft supply",
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaLaptopComputer": [
+        "office or craft supply",
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaLawnChair": [
+        "piece of furniture",
+        "piece of garden equipment"
+    ],
+    "ObjaLego": [
+        "toy"
+    ],
+    "ObjaLemon": [
+        "food item"
+    ],
+    "ObjaLettuce": [
+        "food item"
+    ],
+    "ObjaLicensePlate": [
+        "entertainment item",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaLid": [
+        "cookware item"
+    ],
+    "ObjaLight": [
+        "lighting fixture"
+    ],
+    "ObjaLightSaber": [
+        "toy",
+        "entertainment item"
+    ],
+    "ObjaLighter": [
+        "tool"
+    ],
+    "ObjaLightsaber": [
+        "toy",
+        "entertainment item"
+    ],
+    "ObjaLipstick": [
+        "personal care item"
+    ],
+    "ObjaLiquor": [
+        "beverage"
+    ],
+    "ObjaLocker": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaLollipop": [
+        "food item"
+    ],
+    "ObjaLotion": [
+        "personal care item"
+    ],
+    "ObjaLoveseat": [
+        "piece of furniture"
+    ],
+    "ObjaLunchbox": [
+        "storage container"
+    ],
+    "ObjaMagazine": [
+        "entertainment item"
+    ],
+    "ObjaMagnet": [
+        "toy",
+        "tool",
+        "office or craft supply"
+    ],
+    "ObjaMailbox": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaMailboxAtHome": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaMallet": [
+        "tool"
+    ],
+    "ObjaMango": [
+        "food item"
+    ],
+    "ObjaMap": [
+        "tool",
+        "office or craft supply"
+    ],
+    "ObjaMarker": [
+        "tool",
+        "office or craft supply"
+    ],
+    "ObjaMask": [
+        "piece of clothes",
+        "medical item",
+        "personal care item"
+    ],
+    "ObjaMattress": [
+        "piece of furniture"
+    ],
+    "ObjaMeasuringStick": [
+        "tool"
+    ],
+    "ObjaMeatGrinder": [
+        "appliance",
+        "tool"
+    ],
+    "ObjaMedal": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaMedallion": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaMedicine": [
+        "medical item"
+    ],
+    "ObjaMegaphone": [
+        "entertainment item",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaMelon": [
+        "food item"
+    ],
+    "ObjaMicrophone": [
+        "tool",
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaMicroscope": [
+        "tool"
+    ],
+    "ObjaMicrowave": [
+        "appliance",
+        "electronic device"
+    ],
+    "ObjaMicrowaveOven": [
+        "appliance",
+        "electronic device"
+    ],
+    "ObjaMilk": [
+        "food item",
+        "beverage"
+    ],
+    "ObjaMilkCan": [
+        "storage container",
+        "beverage"
+    ],
+    "ObjaMilkshake": [
+        "food item",
+        "beverage"
+    ],
+    "ObjaMirror": [
+        "decorative item",
+        "personal care item"
+    ],
+    "ObjaMixer": [
+        "appliance",
+        "tool"
+    ],
+    "ObjaMixerKitchenTool": [
+        "appliance",
+        "cookware item"
+    ],
+    "ObjaModem": [
+        "electronic device"
+    ],
+    "ObjaMoney": [
+        "financial item"
+    ],
+    "ObjaMonitor": [
+        "office or craft supply",
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaMonitorComputerEquipmentComputerMonitor": [
+        "office or craft supply",
+        "electronic device"
+    ],
+    "ObjaMop": [
+        "cleaning item",
+        "tool"
+    ],
+    "ObjaMortarAndPestle": [
+        "tool",
+        "cookware item"
+    ],
+    "ObjaMouseComputerEquipment": [
+        "tool",
+        "office or craft supply",
+        "electronic device"
+    ],
+    "ObjaMousepad": [
+        "office or craft supply"
+    ],
+    "ObjaMuffin": [
+        "food item"
+    ],
+    "ObjaMug": [
+        "dinnerware item",
+        "beverage"
+    ],
+    "ObjaMusicalInstrument": [
+        "entertainment item"
+    ],
+    "ObjaNail": [
+        "tool"
+    ],
+    "ObjaNailfile": [
+        "tool",
+        "personal care item"
+    ],
+    "ObjaNecklace": [
+        "personal care item"
+    ],
+    "ObjaNeedle": [
+        "tool",
+        "piece of clothes",
+        "office or craft supply"
+    ],
+    "ObjaNewspaper": [
+        "entertainment item",
+        "office or craft supply"
+    ],
+    "ObjaNightstand": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaNoodles": [
+        "food item"
+    ],
+    "ObjaNotebook": [
+        "office or craft supply"
+    ],
+    "ObjaNotepad": [
+        "office or craft supply"
+    ],
+    "ObjaOfficeChair": [
+        "office or craft supply",
+        "piece of furniture"
+    ],
+    "ObjaOilLamp": [
+        "lighting fixture"
+    ],
+    "ObjaOrange": [
+        "food item"
+    ],
+    "ObjaOrangeFruit": [
+        "food item"
+    ],
+    "ObjaOrangeJuice": [
+        "food item",
+        "beverage"
+    ],
+    "ObjaOrnament": [
+        "decorative item"
+    ],
+    "ObjaOttoman": [
+        "piece of furniture"
+    ],
+    "ObjaOutlet": [
+        "electronic device"
+    ],
+    "ObjaOven": [
+        "appliance",
+        "cookware item"
+    ],
+    "ObjaPackage": [
+        "storage container"
+    ],
+    "ObjaPacket": [
+        "food item",
+        "storage container"
+    ],
+    "ObjaPaddle": [
+        "tool"
+    ],
+    "ObjaPail": [
+        "cleaning item",
+        "storage container",
+        "tool"
+    ],
+    "ObjaPaintbrush": [
+        "tool",
+        "office or craft supply"
+    ],
+    "ObjaPainting": [
+        "decorative item",
+        "entertainment item"
+    ],
+    "ObjaPan": [
+        "cookware item"
+    ],
+    "ObjaPanForCooking": [
+        "tool",
+        "cookware item"
+    ],
+    "ObjaPanMetalContainer": [
+        "cookware item"
+    ],
+    "ObjaPancake": [
+        "food item"
+    ],
+    "ObjaPants": [
+        "piece of clothes"
+    ],
+    "ObjaPaper": [
+        "office or craft supply"
+    ],
+    "ObjaPaperTowel": [
+        "cleaning item"
+    ],
+    "ObjaPastry": [
+        "food item"
+    ],
+    "ObjaPeach": [
+        "food item"
+    ],
+    "ObjaPear": [
+        "food item"
+    ],
+    "ObjaPen": [
+        "tool",
+        "office or craft supply"
+    ],
+    "ObjaPencil": [
+        "office or craft supply"
+    ],
+    "ObjaPendant": [
+        "decorative item"
+    ],
+    "ObjaPepper": [
+        "food item"
+    ],
+    "ObjaPepperMill": [
+        "tool",
+        "cookware item"
+    ],
+    "ObjaPerfume": [
+        "personal care item"
+    ],
+    "ObjaPhone": [
+        "electronic device"
+    ],
+    "ObjaPhonebook": [
+        "entertainment item",
+        "office or craft supply"
+    ],
+    "ObjaPhonographRecord": [
+        "entertainment item"
+    ],
+    "ObjaPhoto": [
+        "decorative item"
+    ],
+    "ObjaPhotograph": [
+        "decorative item"
+    ],
+    "ObjaPiano": [
+        "entertainment item"
+    ],
+    "ObjaPickAxe": [
+        "tool",
+        "piece of garden equipment"
+    ],
+    "ObjaPickaxe": [
+        "tool",
+        "piece of garden equipment"
+    ],
+    "ObjaPicture": [
+        "decorative item",
+        "entertainment item"
+    ],
+    "ObjaPictureFrame": [
+        "decorative item",
+        "piece of furniture"
+    ],
+    "ObjaPie": [
+        "food item"
+    ],
+    "ObjaPiggyBank": [
+        "toy",
+        "decorative item",
+        "storage container"
+    ],
+    "ObjaPillBottle": [
+        "medical item",
+        "storage container"
+    ],
+    "ObjaPillow": [
+        "piece of linens"
+    ],
+    "ObjaPillows": [
+        "piece of linens"
+    ],
+    "ObjaPineapple": [
+        "food item"
+    ],
+    "ObjaPinecone": [
+        "decorative item"
+    ],
+    "ObjaPipe": [
+        "tool",
+        "storage container",
+        "piece of garden equipment"
+    ],
+    "ObjaPitcher": [
+        "dinnerware item",
+        "glassware item",
+        "beverage"
+    ],
+    "ObjaPitcherVesselForLiquid": [
+        "glassware item",
+        "beverage"
+    ],
+    "ObjaPitchfork": [
+        "tool",
+        "piece of garden equipment"
+    ],
+    "ObjaPizza": [
+        "food item"
+    ],
+    "ObjaPlaceMat": [
+        "decorative item",
+        "dinnerware item",
+        "piece of linens"
+    ],
+    "ObjaPlant": [
+        "decorative item",
+        "piece of garden equipment"
+    ],
+    "ObjaPlanter": [
+        "decorative item",
+        "piece of garden equipment"
+    ],
+    "ObjaPlaque": [
+        "decorative item"
+    ],
+    "ObjaPlate": [
+        "dinnerware item"
+    ],
+    "ObjaPlatter": [
+        "dinnerware item"
+    ],
+    "ObjaPliers": [
+        "tool"
+    ],
+    "ObjaPocketWatch": [
+        "decorative item",
+        "entertainment item",
+        "personal care item"
+    ],
+    "ObjaPocketknife": [
+        "tool"
+    ],
+    "ObjaPodium": [
+        "piece of furniture"
+    ],
+    "ObjaPokemonCard": [
+        "toy",
+        "entertainment item"
+    ],
+    "ObjaPoloShirt": [
+        "piece of clothes"
+    ],
+    "ObjaPoolTable": [
+        "piece of sports or exercise equipment",
+        "entertainment item"
+    ],
+    "ObjaPopSoda": [
+        "food item",
+        "beverage"
+    ],
+    "ObjaPopsicle": [
+        "food item"
+    ],
+    "ObjaPoster": [
+        "decorative item",
+        "entertainment item"
+    ],
+    "ObjaPot": [
+        "cookware item"
+    ],
+    "ObjaPottedPlant": [
+        "decorative item"
+    ],
+    "ObjaPottery": [
+        "dinnerware item"
+    ],
+    "ObjaPouch": [
+        "storage container"
+    ],
+    "ObjaPowerTool": [
+        "tool"
+    ],
+    "ObjaPresent": [
+        "decorative item"
+    ],
+    "ObjaPrinter": [
+        "office or craft supply",
+        "electronic device"
+    ],
+    "ObjaProjector": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaPumpkin": [
+        "decorative item",
+        "food item"
+    ],
+    "ObjaPurse": [
+        "financial item",
+        "storage container"
+    ],
+    "ObjaRack": [
+        "piece of furniture"
+    ],
+    "ObjaRadiator": [
+        "appliance"
+    ],
+    "ObjaRadio": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaRadioReceiver": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaRazor": [
+        "tool",
+        "personal care item"
+    ],
+    "ObjaRazorblade": [
+        "tool",
+        "personal care item"
+    ],
+    "ObjaReceipt": [
+        "financial item"
+    ],
+    "ObjaRecliner": [
+        "piece of furniture"
+    ],
+    "ObjaRecord": [
+        "entertainment item"
+    ],
+    "ObjaRecordPlayer": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaRefrigerator": [
+        "appliance",
+        "storage container"
+    ],
+    "ObjaRemoteControl": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaRing": [
+        "decorative item",
+        "personal care item"
+    ],
+    "ObjaRobe": [
+        "piece of clothes",
+        "personal care item"
+    ],
+    "ObjaRobot": [
+        "toy",
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaRockingChair": [
+        "piece of furniture"
+    ],
+    "ObjaRockingHorse": [
+        "toy"
+    ],
+    "ObjaRocks": [
+        "decorative item",
+        "piece of garden equipment"
+    ],
+    "ObjaRollerSkate": [
+        "piece of sports or exercise equipment",
+        "entertainment item",
+        "footwear item"
+    ],
+    "ObjaRollingPin": [
+        "tool",
+        "cookware item"
+    ],
+    "ObjaRose": [
+        "decorative item"
+    ],
+    "ObjaRouter": [
+        "tool",
+        "electronic device"
+    ],
+    "ObjaRouterComputerEquipment": [
+        "tool",
+        "electronic device"
+    ],
+    "ObjaRubberDuck": [
+        "toy",
+        "decorative item"
+    ],
+    "ObjaRuler": [
+        "tool",
+        "office or craft supply"
+    ],
+    "ObjaSafe": [
+        "financial item",
+        "storage container"
+    ],
+    "ObjaSaltshaker": [
+        "dinnerware item",
+        "storage container"
+    ],
+    "ObjaSandal": [
+        "piece of clothes",
+        "footwear item"
+    ],
+    "ObjaSandalTypeOfShoe": [
+        "piece of clothes",
+        "footwear item"
+    ],
+    "ObjaSandwich": [
+        "food item"
+    ],
+    "ObjaSatchel": [
+        "tool",
+        "office or craft supply",
+        "piece of clothes",
+        "personal care item"
+    ],
+    "ObjaSaucepan": [
+        "cookware item"
+    ],
+    "ObjaSaucer": [
+        "dinnerware item"
+    ],
+    "ObjaSausage": [
+        "food item"
+    ],
+    "ObjaSaw": [
+        "tool"
+    ],
+    "ObjaSaxophone": [
+        "entertainment item"
+    ],
+    "ObjaScale": [
+        "appliance",
+        "tool"
+    ],
+    "ObjaScaleMeasuringInstrument": [
+        "tool"
+    ],
+    "ObjaScarf": [
+        "piece of clothes"
+    ],
+    "ObjaScissors": [
+        "tool",
+        "office or craft supply"
+    ],
+    "ObjaScooter": [
+        "toy"
+    ],
+    "ObjaScreen": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaScrew": [
+        "tool"
+    ],
+    "ObjaScrewdriver": [
+        "tool"
+    ],
+    "ObjaScrubbingBrush": [
+        "cleaning item",
+        "tool"
+    ],
+    "ObjaSculpture": [
+        "decorative item"
+    ],
+    "ObjaSeashell": [
+        "decorative item"
+    ],
+    "ObjaSewingMachine": [
+        "appliance",
+        "tool",
+        "office or craft supply"
+    ],
+    "ObjaShaver": [
+        "personal care item",
+        "electronic device"
+    ],
+    "ObjaShawl": [
+        "piece of clothes"
+    ],
+    "ObjaShelf": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaShell": [
+        "decorative item"
+    ],
+    "ObjaShelves": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaShelvingUnit": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaShoe": [
+        "footwear item"
+    ],
+    "ObjaShoes": [
+        "footwear item"
+    ],
+    "ObjaShortPants": [
+        "piece of clothes"
+    ],
+    "ObjaShorts": [
+        "piece of clothes"
+    ],
+    "ObjaShovel": [
+        "tool",
+        "piece of garden equipment"
+    ],
+    "ObjaShowerHead": [
+        "appliance",
+        "personal care item"
+    ],
+    "ObjaSideboard": [
+        "piece of furniture"
+    ],
+    "ObjaSign": [
+        "decorative item"
+    ],
+    "ObjaSink": [
+        "appliance"
+    ],
+    "ObjaSkate": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaSkirt": [
+        "piece of clothes"
+    ],
+    "ObjaSled": [
+        "toy",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaSlipperFootwear": [
+        "footwear item"
+    ],
+    "ObjaSneaker": [
+        "piece of clothes",
+        "footwear item",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaSneakers": [
+        "piece of clothes",
+        "footwear item",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaSnowGlobe": [
+        "toy",
+        "decorative item",
+        "entertainment item"
+    ],
+    "ObjaSnowboard": [
+        "piece of sports or exercise equipment",
+        "entertainment item"
+    ],
+    "ObjaSoap": [
+        "cleaning item",
+        "personal care item"
+    ],
+    "ObjaSoccerBall": [
+        "toy",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaSock": [
+        "piece of clothes",
+        "footwear item"
+    ],
+    "ObjaSofa": [
+        "piece of furniture"
+    ],
+    "ObjaSoup": [
+        "food item"
+    ],
+    "ObjaSpade": [
+        "tool",
+        "piece of garden equipment"
+    ],
+    "ObjaSpatula": [
+        "tool",
+        "cookware item"
+    ],
+    "ObjaSpeaker": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaSpeakerSteroEquipment": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaSpectacles": [
+        "medical item",
+        "personal care item"
+    ],
+    "ObjaSponge": [
+        "cleaning item"
+    ],
+    "ObjaSpool": [
+        "office or craft supply"
+    ],
+    "ObjaSpoon": [
+        "cookware item",
+        "dinnerware item"
+    ],
+    "ObjaSportsCard": [
+        "entertainment item"
+    ],
+    "ObjaSprayCan": [
+        "cleaning item",
+        "tool"
+    ],
+    "ObjaSpyglass": [
+        "tool"
+    ],
+    "ObjaStand": [
+        "piece of furniture"
+    ],
+    "ObjaStapler": [
+        "tool",
+        "office or craft supply"
+    ],
+    "ObjaStatue": [
+        "decorative item"
+    ],
+    "ObjaStatueSculpture": [
+        "decorative item"
+    ],
+    "ObjaSteakFood": [
+        "food item"
+    ],
+    "ObjaSteakKnife": [
+        "tool",
+        "dinnerware item"
+    ],
+    "ObjaStepStool": [
+        "tool",
+        "piece of furniture"
+    ],
+    "ObjaStepladder": [
+        "tool"
+    ],
+    "ObjaStereo": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaStereoSoundSystem": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaStethoscope": [
+        "tool",
+        "medical item"
+    ],
+    "ObjaStick": [
+        "tool"
+    ],
+    "ObjaSticker": [
+        "decorative item",
+        "office or craft supply"
+    ],
+    "ObjaStool": [
+        "piece of furniture"
+    ],
+    "ObjaStreetSign": [
+        "tool",
+        "piece of garden equipment"
+    ],
+    "ObjaStroller": [
+        "piece of sports or exercise equipment",
+        "piece of furniture"
+    ],
+    "ObjaSubwoofer": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaSuitcase": [
+        "storage container"
+    ],
+    "ObjaSunflower": [
+        "food item",
+        "piece of garden equipment"
+    ],
+    "ObjaSunglasses": [
+        "piece of clothes",
+        "personal care item"
+    ],
+    "ObjaSweatPants": [
+        "piece of clothes"
+    ],
+    "ObjaSweater": [
+        "piece of clothes"
+    ],
+    "ObjaSweatshirt": [
+        "piece of clothes"
+    ],
+    "ObjaSwimsuit": [
+        "piece of clothes",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaSyringe": [
+        "medical item"
+    ],
+    "ObjaTShirt": [
+        "piece of clothes"
+    ],
+    "ObjaTable": [
+        "piece of furniture"
+    ],
+    "ObjaTableLamp": [
+        "decorative item",
+        "piece of furniture",
+        "lighting fixture"
+    ],
+    "ObjaTablet": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaTaco": [
+        "food item"
+    ],
+    "ObjaTag": [
+        "office or craft supply",
+        "piece of clothes",
+        "storage container"
+    ],
+    "ObjaTankStorageVessel": [
+        "storage container"
+    ],
+    "ObjaTankTopClothing": [
+        "piece of clothes"
+    ],
+    "ObjaTapeMeasure": [
+        "tool"
+    ],
+    "ObjaTapePlayer": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaTapeRecorder": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaTeacup": [
+        "dinnerware item"
+    ],
+    "ObjaTeakettle": [
+        "appliance",
+        "cookware item"
+    ],
+    "ObjaTeapot": [
+        "cookware item"
+    ],
+    "ObjaTeddyBear": [
+        "toy",
+        "decorative item"
+    ],
+    "ObjaTelephone": [
+        "electronic device"
+    ],
+    "ObjaTelescope": [
+        "entertainment item",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaTelevision": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaTelevisionCamera": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaTelevisionSet": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaTennisShoe": [
+        "piece of clothes",
+        "footwear item",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaThermometer": [
+        "tool",
+        "medical item"
+    ],
+    "ObjaThermosBottle": [
+        "storage container",
+        "beverage"
+    ],
+    "ObjaThermostat": [
+        "tool",
+        "electronic device"
+    ],
+    "ObjaTimer": [
+        "tool",
+        "electronic device"
+    ],
+    "ObjaTin": [
+        "cookware item",
+        "storage container"
+    ],
+    "ObjaTires": [
+        "tool",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaToastFood": [
+        "food item"
+    ],
+    "ObjaToaster": [
+        "appliance"
+    ],
+    "ObjaToasterOven": [
+        "appliance",
+        "cookware item"
+    ],
+    "ObjaTobaccoPipe": [
+        "decorative item",
+        "tool"
+    ],
+    "ObjaToiletTissue": [
+        "cleaning item",
+        "personal care item"
+    ],
+    "ObjaTomato": [
+        "food item"
+    ],
+    "ObjaTool": [
+        "tool"
+    ],
+    "ObjaToolbox": [
+        "tool",
+        "storage container"
+    ],
+    "ObjaToothbrush": [
+        "medical item",
+        "personal care item"
+    ],
+    "ObjaToothpaste": [
+        "cleaning item",
+        "medical item",
+        "personal care item"
+    ],
+    "ObjaToothpick": [
+        "personal care item"
+    ],
+    "ObjaTorch": [
+        "tool",
+        "lighting fixture"
+    ],
+    "ObjaToteBag": [
+        "storage container"
+    ],
+    "ObjaTowelRack": [
+        "piece of linens"
+    ],
+    "ObjaToy": [
+        "toy",
+        "entertainment item"
+    ],
+    "ObjaTradingCard": [
+        "entertainment item"
+    ],
+    "ObjaTradingCards": [
+        "entertainment item"
+    ],
+    "ObjaTrashCan": [
+        "cleaning item"
+    ],
+    "ObjaTray": [
+        "dinnerware item"
+    ],
+    "ObjaTreadmill": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaTricycle": [
+        "toy"
+    ],
+    "ObjaTripod": [
+        "tool"
+    ],
+    "ObjaTrophy": [
+        "decorative item"
+    ],
+    "ObjaTrophyCup": [
+        "decorative item"
+    ],
+    "ObjaTrumpet": [
+        "entertainment item"
+    ],
+    "ObjaTrunk": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ObjaTub": [
+        "piece of furniture",
+        "piece of garden equipment"
+    ],
+    "ObjaTube": [
+        "tool",
+        "piece of sports or exercise equipment",
+        "piece of garden equipment"
+    ],
+    "ObjaTurntable": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaTvStand": [
+        "piece of furniture"
+    ],
+    "ObjaTypewriter": [
+        "tool",
+        "office or craft supply"
+    ],
+    "ObjaUmbrella": [
+        "piece of clothes"
+    ],
+    "ObjaUnderwear": [
+        "piece of clothes",
+        "personal care item"
+    ],
+    "ObjaUnicycle": [
+        "toy",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaUrn": [
+        "decorative item"
+    ],
+    "ObjaVacuumCleaner": [
+        "appliance",
+        "cleaning item",
+        "tool"
+    ],
+    "ObjaVase": [
+        "decorative item"
+    ],
+    "ObjaVest": [
+        "piece of clothes"
+    ],
+    "ObjaVideoGame": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaVideoGameConsole": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaVideogameConsole": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaVideotape": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "ObjaViolin": [
+        "entertainment item"
+    ],
+    "ObjaVisor": [
+        "piece of clothes"
+    ],
+    "ObjaVolleyball": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaWaffle": [
+        "food item"
+    ],
+    "ObjaWagon": [
+        "toy"
+    ],
+    "ObjaWalkieTalkie": [
+        "tool",
+        "electronic device"
+    ],
+    "ObjaWalkingCane": [
+        "medical item"
+    ],
+    "ObjaWalkingStick": [
+        "tool"
+    ],
+    "ObjaWallClock": [
+        "decorative item"
+    ],
+    "ObjaWallSocket": [
+        "electronic device"
+    ],
+    "ObjaWallet": [
+        "financial item"
+    ],
+    "ObjaWand": [
+        "tool",
+        "entertainment item"
+    ],
+    "ObjaWardrobe": [
+        "piece of furniture"
+    ],
+    "ObjaWashbasin": [
+        "piece of furniture"
+    ],
+    "ObjaWashingMachine": [
+        "appliance"
+    ],
+    "ObjaWatch": [
+        "personal care item"
+    ],
+    "ObjaWaterBottle": [
+        "piece of sports or exercise equipment",
+        "storage container",
+        "beverage"
+    ],
+    "ObjaWaterGun": [
+        "toy",
+        "entertainment item"
+    ],
+    "ObjaWaterJug": [
+        "storage container",
+        "beverage"
+    ],
+    "ObjaWateringCan": [
+        "tool",
+        "piece of garden equipment"
+    ],
+    "ObjaWatermelon": [
+        "food item"
+    ],
+    "ObjaWebcam": [
+        "tool",
+        "electronic device"
+    ],
+    "ObjaWeight": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaWetSuit": [
+        "piece of clothes",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaWheel": [
+        "tool",
+        "piece of sports or exercise equipment",
+        "piece of garden equipment"
+    ],
+    "ObjaWheelchair": [
+        "medical item"
+    ],
+    "ObjaWhistle": [
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaWindow": [
+        "tool",
+        "piece of furniture"
+    ],
+    "ObjaWindows": [
+        "tool",
+        "piece of furniture"
+    ],
+    "ObjaWineBottle": [
+        "glassware item",
+        "storage container",
+        "beverage"
+    ],
+    "ObjaWineglass": [
+        "dinnerware item",
+        "glassware item"
+    ],
+    "ObjaWoodenSpoon": [
+        "tool",
+        "cookware item"
+    ],
+    "ObjaWrench": [
+        "tool"
+    ],
+    "ObjaWristband": [
+        "piece of clothes",
+        "piece of sports or exercise equipment"
+    ],
+    "ObjaYogurt": [
+        "food item"
+    ],
+    "Ottoman": [
+        "piece of furniture"
+    ],
+    "Painting": [
+        "decorative item",
+        "entertainment item"
+    ],
+    "Pan": [
+        "cookware item"
+    ],
+    "PaperTowelRoll": [
+        "cleaning item"
+    ],
+    "Pen": [
+        "tool",
+        "office or craft supply"
+    ],
+    "Pencil": [
+        "office or craft supply"
+    ],
+    "PepperShaker": [
+        "decorative item",
+        "dinnerware item",
+        "piece of furniture"
+    ],
+    "Pillow": [
+        "piece of linens"
+    ],
+    "Plate": [
+        "dinnerware item"
+    ],
+    "Plunger": [
+        "cleaning item",
+        "tool"
+    ],
+    "Pot": [
+        "cookware item"
+    ],
+    "Potato": [
+        "food item"
+    ],
+    "RemoteControl": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "RoomDecor": [
+        "decorative item"
+    ],
+    "Safe": [
+        "financial item",
+        "storage container"
+    ],
+    "SaltShaker": [
+        "dinnerware item",
+        "storage container"
+    ],
+    "ScrubBrush": [
+        "cleaning item",
+        "tool"
+    ],
+    "ShelvingUnit": [
+        "piece of furniture",
+        "storage container"
+    ],
+    "ShowerCurtain": [
+        "decorative item",
+        "piece of linens"
+    ],
+    "ShowerHead": [
+        "appliance",
+        "personal care item"
+    ],
+    "SideTable": [
+        "piece of furniture"
+    ],
+    "Sink": [
+        "appliance"
+    ],
+    "SoapBar": [
+        "cleaning item",
+        "personal care item"
+    ],
+    "SoapBottle": [
+        "cleaning item",
+        "personal care item"
+    ],
+    "Sofa": [
+        "piece of furniture"
+    ],
+    "Spatula": [
+        "tool",
+        "cookware item"
+    ],
+    "Spoon": [
+        "cookware item",
+        "dinnerware item"
+    ],
+    "SprayBottle": [
+        "cleaning item",
+        "tool"
+    ],
+    "Statue": [
+        "decorative item"
+    ],
+    "Stool": [
+        "piece of furniture"
+    ],
+    "TVStand": [
+        "piece of furniture"
+    ],
+    "TableTopDecor": [
+        "decorative item"
+    ],
+    "TeddyBear": [
+        "toy",
+        "decorative item"
+    ],
+    "Television": [
+        "entertainment item",
+        "electronic device"
+    ],
+    "TennisRacket": [
+        "piece of sports or exercise equipment",
+        "entertainment item"
+    ],
+    "TissueBox": [
+        "decorative item",
+        "storage container",
+        "personal care item"
+    ],
+    "Toaster": [
+        "appliance"
+    ],
+    "Toilet": [
+        "cleaning item",
+        "personal care item"
+    ],
+    "ToiletPaper": [
+        "cleaning item",
+        "personal care item"
+    ],
+    "ToiletPaperHanger": [
+        "storage container"
+    ],
+    "Tomato": [
+        "food item"
+    ],
+    "Towel": [
+        "cleaning item",
+        "piece of linens"
+    ],
+    "TowelHolder": [
+        "piece of linens"
+    ],
+    "VacuumCleaner": [
+        "appliance",
+        "cleaning item",
+        "tool"
+    ],
+    "Vase": [
+        "decorative item"
+    ],
+    "WashingMachine": [
+        "appliance"
+    ],
+    "Watch": [
+        "personal care item"
+    ],
+    "WateringCan": [
+        "tool",
+        "piece of garden equipment"
+    ],
+    "Window": [
+        "tool",
+        "piece of furniture"
+    ],
+    "WineBottle": [
+        "glassware item",
+        "storage container",
+        "beverage"
+    ]
+}
